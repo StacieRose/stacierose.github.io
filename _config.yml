@@ -1,2 +1,3 @@
 name: Stacie Rose, Noob Coder
 	markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
